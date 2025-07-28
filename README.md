@@ -1,8 +1,5 @@
 # Fitness91
 
-## Overview  
-**Fitness91** is a fitness tracking Android application designed get daily workout routines, facial exercises, and diet plans. Built using Jetpack Compose and powered by Supabase, it provides real-time progress tracking, dynamic dashboards, and plans based on the current weekday.
-
 ## Features
 
 - **User Authentication**  
