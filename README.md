@@ -33,14 +33,21 @@
 - **Animations** – Enhances user experience with meaningful transitions and effects
 
 ## Screenshots  
-| Sign up Screen | SignIn screen | Home Screen |
-|-------------|----------------|--------------------------|
-| ![0](https://github.com/user-attachments/assets/97ec7774-23a2-44cd-95a7-3f0d5efd42e6) | ![1](https://github.com/user-attachments/assets/40f8dd1a-bdb7-4b2e-a473-d73ed1f0ad27) | ![2](https://github.com/user-attachments/assets/9ca2efe8-5596-421f-89d6-c278d6dcf480) |
 
-| Gym Training tasks | Complete Exercises | Face Exercises |
-|-------------|----------------|--------------------------|
-| ![3](https://github.com/user-attachments/assets/8228ba0c-d9a5-4534-860a-db5160359f09) | ![4](https://github.com/user-attachments/assets/c4fe119f-1bf4-4932-88b6-648070aa96ba) | ![5](https://github.com/user-attachments/assets/a65d61cc-78df-4d89-ab90-f5418569413f) |
-
-| Diet Plan | Daily insights | App settings |
-|-------------|----------------|--------------------------|
-| ![6](https://github.com/user-attachments/assets/912f0027-a426-4923-83fb-5276410c989f) | ![7](https://github.com/user-attachments/assets/b5e806f9-864a-4e94-adac-d50ef70f30d1) | ![8](https://github.com/user-attachments/assets/6b48b6f7-7527-4368-b3ed-b3975a4330c0) |
+<table>
+  <tr>
+    <td align="center"><b>Sign Up Screen</b><br><img src="https://github.com/user-attachments/assets/97ec7774-23a2-44cd-95a7-3f0d5efd42e6" width="250"/></td>
+    <td align="center"><b>SignIn Screen</b><br><img src="https://github.com/user-attachments/assets/40f8dd1a-bdb7-4b2e-a473-d73ed1f0ad27" width="250"/></td>
+    <td align="center"><b>Home Screen</b><br><img src="https://github.com/user-attachments/assets/9ca2efe8-5596-421f-89d6-c278d6dcf480" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gym Training Tasks</b><br><img src="https://github.com/user-attachments/assets/8228ba0c-d9a5-4534-860a-db5160359f09" width="250"/></td>
+    <td align="center"><b>Complete Exercises</b><br><img src="https://github.com/user-attachments/assets/c4fe119f-1bf4-4932-88b6-648070aa96ba" width="250"/></td>
+    <td align="center"><b>Face Exercises</b><br><img src="https://github.com/user-attachments/assets/a65d61cc-78df-4d89-ab90-f5418569413f" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Diet Plan</b><br><img src="https://github.com/user-attachments/assets/912f0027-a426-4923-83fb-5276410c989f" width="250"/></td>
+    <td align="center"><b>Daily Insights</b><br><img src="https://github.com/user-attachments/assets/b5e806f9-864a-4e94-adac-d50ef70f30d1" width="250"/></td>
+    <td align="center"><b>App Settings</b><br><img src="https://github.com/user-attachments/assets/6b48b6f7-7527-4368-b3ed-b3975a4330c0" width="250"/></td>
+  </tr>
+</table>
